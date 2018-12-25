@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://lakshya-academy.com/';
+$config['base_url'] = 'http://localhost/lakshya-academy.com/';
 
 /*
 |--------------------------------------------------------------------------
